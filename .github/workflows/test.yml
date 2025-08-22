@@ -2,7 +2,7 @@ name: Tests
 
 on:
   push:
-    branches: [ eat/initial ]
+    branches: [ feat/initial ]
   pull_request:
     branches: [ main ]
 
