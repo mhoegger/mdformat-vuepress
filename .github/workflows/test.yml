@@ -1,8 +1,6 @@
 name: Tests
 
 on:
-  push:
-    branches: [ feat/initial ]
   pull_request:
     branches: [ main ]
 
